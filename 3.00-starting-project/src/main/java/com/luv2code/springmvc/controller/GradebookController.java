@@ -1,4 +1,4 @@
-package com.luv2code.springmvc.controller;
+ package com.luv2code.springmvc.controller;
 
 import com.luv2code.springmvc.models.*;
 import org.springframework.beans.factory.annotation.Autowired;
